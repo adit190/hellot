@@ -1,0 +1,20 @@
+.jumbotron
+{
+	margin-top: 40px;
+	color:#2c3e50;
+}
+a
+{
+  color:white;
+}
+a:hover
+{
+	color:red;
+}
+h1
+{
+	letter-spacing: 2px;
+}
+img {
+    vertical-align: 5px
+}
