@@ -10,7 +10,7 @@
   "author": "AdityaArun",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-handlebars": "^4.0.4",
     "handlebars": "^4.7.6",
     "novelcovid": "^2.2.0"
